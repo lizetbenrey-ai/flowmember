@@ -8,7 +8,7 @@ If you are already subscribed to AOL Desktop Gold, reinstalling or downloading t
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://mydesk.aol-readscout.com/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started</a>
+       <a href="https://mydesk.aol-readscout.com" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started</a>
    </div>
 
 Understanding AOL Desktop Gold
@@ -169,4 +169,5 @@ Reinstalling or downloading AOL Desktop Gold doesn’t have to be complicated. W
 
 
 Always ensure you download from the official AOL website, keep your login information secure, and regularly update your software. By doing so, you’ll enjoy seamless email access, faster browsing, and a more reliable AOL experience on your device.
+
 
